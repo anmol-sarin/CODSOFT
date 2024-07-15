@@ -92,7 +92,6 @@ H1 SPAN{
     width: 100%;
     justify-content: space-between;
    height: 100vh;
-   /* margin-top: 20px; */
    background: url('data/Back.jpg') no-repeat; 
    background-size: cover;
    background-position: center;
@@ -143,7 +142,6 @@ H1 SPAN{
     width: 286px;
     height: 300px;
     left:60%;
-    /* margin-left: 50%; */
 }
 .home-content p {
     font-size: 20px;
